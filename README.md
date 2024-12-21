@@ -30,12 +30,14 @@ I am a 4th-year student of Computer Engineering at the National University of En
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 
 
+
 </span>
 
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+ <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white">
 </span>
 
 <h4> Databases </h4>
@@ -54,6 +56,9 @@ I am a 4th-year student of Computer Engineering at the National University of En
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/Expo%20CLI-000020?style=for-the-badge&logo=expo&logoColor=white">
+
 </span>
 
 <div align="center">
