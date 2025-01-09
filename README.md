@@ -66,8 +66,12 @@ I am a 4th-year student of Computer Engineering at the National University of En
 <div align="center">
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=ArisEspino&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ArisEspino)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=Meli_Aris&theme=material-palenight)](https://github.com/ArisEspino)
-</div>
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats&theme=dark#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisEspino&layout=donut&theme=dark#gh-dark-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArisEspino&card_width=320&show_icons=true&theme=dark#gh-dark-mode-only" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats&theme=default#gh-light-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisEspino&layout=donut&theme=default#gh-light-mode-only" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArisEspino&card_width=320&show_icons=true&theme=default#gh-light-mode-only" />
+</a>
