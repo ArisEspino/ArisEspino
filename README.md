@@ -96,14 +96,14 @@ I am a 4th-year student of Computer Engineering at the National University of En
   <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white"/>
 </p>
 
-<div align="center">
+<div align="left">
 <h2>Github stats:</h2>
 
 <a href="https://github.com/ArisEspino">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArisEspino&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisEspino&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 </a>
 
 </div>
