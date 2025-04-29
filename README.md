@@ -98,12 +98,13 @@ I am a 4th-year student of Computer Engineering at the National University of En
 
 <div align="center">
 <h2>Github stats:</h2>
-<div align="right">
+<div align="center">
   <a href="https://github.com/ArisEspino">
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=ArisEspino&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArisEspino&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
   </a>
+      <br></br> 
   <a>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisEspino&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisEspino&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
   </a>
 </div>
 </div>
