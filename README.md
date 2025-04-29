@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Melanie</h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+
+<img align="right" width=300px alt="Chica programando" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFtMHlrYWJzOXU3dm1yMmtvNTN3ajlsOXl1a2J0Zmd6Z2dteGxwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZzeRN1srSziS4zZhB/giphy.gif" />
+
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -11,55 +13,99 @@ I am a 4th-year student of Computer Engineering at the National University of En
   - React Native
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside of technology:
-  - 💪 I enjoy working out, 🎵 listening to music, 🚶‍♀️ walking, and 🌴 exploring nature outdoors.
 - 📧 Reach out to me at: <a href="mailto:Melaaris19@gmail.com">Melaaris19@gmail.com</a>
 
 ## My Skills Include
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=python&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=typescript&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'>
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=java&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg'>
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=c&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg'>
+</a>
+ <a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=dart&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg'>
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg'>
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=html&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=css&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg'>
+</a>
 </p>
 
 <h4> Frameworks </h4>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=dart&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg'>
+</a>
+ <a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
+</a>
 </p>
 
 <h4> Databases </h4>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/SQL%20Server%20Management%20Studio-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+ <a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=sql&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg'>
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=sql&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'>
+</a>
 </p>
 
 <h4> IDE </h4>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Community-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=kotlin&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg'>
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg'>
+</a>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'>
+</a>
 </p>
 
 <h4> Other Tools and Technologies </h4>
+
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg'>
+</a>
+ <a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=nodejs&sort=">
+  <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg'>
+</a>
   <img src="https://img.shields.io/badge/Expo%20CLI-000020?style=for-the-badge&logo=expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white"/>
 </p>
 
 <div align="center">
 <h2>Github stats:</h2>
+
 <a href="https://github.com/ArisEspino">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisEspino&layout=compact&theme=dark" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArisEspino&show_icons=true&theme=dark" />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ArisEspino&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisEspino&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 </a>
+
 </div>
+
+
