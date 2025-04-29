@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Melanie</h1>
+<h1 align="center">Hi 👻, I'm Melanie</h1>
 
 
 <img align="right" width=300px alt="Chica programando" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFtMHlrYWJzOXU3dm1yMmtvNTN3ajlsOXl1a2J0Zmd6Z2dteGxwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZzeRN1srSziS4zZhB/giphy.gif" />
@@ -103,7 +103,7 @@ I am a 4th-year student of Computer Engineering at the National University of En
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArisEspino&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisEspino&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 </a>
 
 </div>
