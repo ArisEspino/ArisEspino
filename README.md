@@ -103,7 +103,6 @@ I am a 4th-year student of Computer Engineering at the National University of En
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArisEspino&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisEspino&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
-<br/><br/><br/>
 </a>
 
 </div>
