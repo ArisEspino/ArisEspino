@@ -5,9 +5,9 @@
 
   <img border="0" data-original-height="512" data-original-width="512" height="80" src="https://cdna.artstation.com/p/assets/images/images/060/220/372/original/press-start-final.gif?1678098328" width="80" style="max-width: 100%;">
   
-  <img style="max-width: 90%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=ArisEspino&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats">
+  <img style="max-width: 50%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=ArisEspino&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats">
   
-  <img style="max-width: 90%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisEspino&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117">
+  <img style="max-width: 50%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisEspino&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117">
 </div>
 
 
