@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👻, I'm Melanie</h1>
 
-
-<img align="right" width=300px alt="Chica programando" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjFtMHlrYWJzOXU3dm1yMmtvNTN3ajlsOXl1a2J0Zmd6Z2dteGxwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZzeRN1srSziS4zZhB/giphy.gif" />
-
-
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+ 
+ <div align="center",display= "flex", flex-direction = "row">  
 
-I am a 4th-year student of Computer Engineering at the National University of Engineering. I am proficient in programming languages like Python, JavaScript, TypeScript, C#, and Java.
-* **I am interested in web development and Android development.**
-- 🌱 I’m currently learning ...
-  - React.js
-  - React Native
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- 📧 Reach out to me at: <a href="mailto:Melaaris19@gmail.com">Melaaris19@gmail.com</a>
+ <img border="0" data-original-height="512" data-original-width="512" height="104" src="https://cdna.artstation.com/p/assets/images/images/060/220/372/original/press-start-final.gif?1678098328" width="104">
+  
+   <img width="43%" height="170px" src="https://github-readme-stats.vercel.app/api?username=ArisEspino&show_icons=true&count_private=true&hide_border=true&title_color=02D9F7FF&icon_color=02D9F7FF&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
+  
+  <img width="43%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisEspino&layout=compact&hide_border=true&title_color=02D9F7FF&text_color=02D9F7FF&bg_color=0d1117" />
+</div>
+
+</div> 
+
 
 ## My Skills Include
 
@@ -96,17 +95,6 @@ I am a 4th-year student of Computer Engineering at the National University of En
   <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white"/>
 </p>
 
-<div align="center">
-<h2>Github stats:</h2>
-<div align="center">
-  <a href="https://github.com/ArisEspino">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=ArisEspino&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
-  </a>
-      <br></br> 
-  <a>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArisEspino&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="200"/>
-  </a>
-</div>
 </div>
 
 
