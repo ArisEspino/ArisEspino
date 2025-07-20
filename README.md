@@ -53,6 +53,12 @@
  <a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=javascript&sort=">
   <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg'>
 </a>
+
+<a href="https://github.com/Aditya664?tab=repositories&q=nestjs">
+  <img width="50px" src="https://docs.nestjs.com/assets/logo-small.svg" alt="NestJS logo">
+</a>
+
+
 </p>
 
 <h4> Databases </h4>
@@ -64,6 +70,12 @@
 <a href="https://github.com/Aditya664?tab=repositories&q=&type=&language=sql&sort=">
   <img width='50px' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg'>
 </a>
+
+<a href="https://github.com/Aditya664?tab=repositories&q=postgresql">
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL logo">
+</a>
+
+  
 </p>
 
 <h4> IDE </h4>
