@@ -4,7 +4,7 @@
   
   <!-- GIF (se ajusta automáticamente) -->
 
- <img border="0" height="150" style="max-width: 100%; height: auto;" src="https://i.pinimg.com/originals/38/64/36/386436f77be1cad1dada76ea35c6fb77.gif">
+ <img border="0" height="150" style="max-width: 100%; height: auto;" src="https://media.tenor.com/-j7BbAVQU6oAAAAi/acnh-miharudesu.gif">
     <img border="0" height="150" style="max-width: 100%; height: auto;" src="https://cdna.artstation.com/p/assets/images/images/060/220/372/original/press-start-final.gif?1678098328">
 
   
