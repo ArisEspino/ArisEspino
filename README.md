@@ -3,7 +3,10 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 10px;">
   
   <!-- GIF (se ajusta automáticamente) -->
-  <img border="0" height="100" style="max-width: 100%; height: auto;" src="https://cdna.artstation.com/p/assets/images/images/060/220/372/original/press-start-final.gif?1678098328">
+
+ <img border="0" height="150" style="max-width: 100%; height: auto;" src="https://i.pinimg.com/originals/38/64/36/386436f77be1cad1dada76ea35c6fb77.gif">
+    <img border="0" height="150" style="max-width: 100%; height: auto;" src="https://cdna.artstation.com/p/assets/images/images/060/220/372/original/press-start-final.gif?1678098328">
+
   
   <!-- Stats (se apilan en móvil) -->
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 100%;">
