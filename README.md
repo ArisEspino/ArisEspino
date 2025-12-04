@@ -5,8 +5,7 @@
 
 <td width="60%" valign="top">
 
-  
-## 🚀 L A N G U A G E S & T O O L S
+## <img src="https://i.pinimg.com/originals/27/12/66/271266dd0bc7e09bef419e60b96cf256.gif" width="70" style="vertical-align: middle;">&nbsp;L A N G U A G E S &amp; T O O L S
 
 <p>
   <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
@@ -62,7 +61,7 @@
 </table>
 
 ##
-<h3 style="font-weight: bold;">🤓And here are some interesting grphs:</h3>
+<h3 style="font-weight: bold;">And here are some interesting grphs:</h3>
 <!-- grph -->
 <div align="center">
   <div>
