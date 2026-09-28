@@ -1,80 +1,73 @@
-<h1 align="center">Hi 👻, I'm Melanie</h1>
+<div align="center">
+<h1>Hi 👻, I'm Melanie</h1>
+
+
+</div>
+<div align="center">
+
+<h2>
+  <img
+    src="https://media1.tenor.com/m/bADzllcBKrwAAAAC/smiling-friends-glep.gif"
+    width="60"
+    style="vertical-align: middle;"
+  >
+  &nbsp;L A N G U A G E S &nbsp;&amp;&nbsp; T O O L S
+</h2>
+
+<br>
+
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+&nbsp;&nbsp;&nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+&nbsp;&nbsp;&nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+&nbsp;&nbsp;&nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+
+<br><br>
+
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+&nbsp;&nbsp;&nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+&nbsp;&nbsp;&nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+&nbsp;&nbsp;&nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+&nbsp;&nbsp;&nbsp;
+<img height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+
+</div>
+
+---
+
+<h3 align="center">And here are some interesting graphs:</h3>
+
+<div align="center">
 
 <table>
 <tr>
 
-<td width="60%" valign="top">
+<td align="center">
 
-## <img src="https://i.pinimg.com/originals/27/12/66/271266dd0bc7e09bef419e60b96cf256.gif" width="70" style="vertical-align: middle;">&nbsp;L A N G U A G E S &amp; T O O L S
-
-<p>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></code>
-</p>
-
-<p>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
-  <code><img height="40" src="https://docs.nestjs.com/assets/logo-small.svg"></code>
-</p>
-
-<p>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"></code>
-</p>
-
-<p>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"></code>
-</p>
-
-<p>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></code>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Expo%20CLI-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white"/>
-</p>
+<img
+  width="350"
+  alt="stats graph"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArisEspino&theme=dark"
+/>
 
 </td>
 
-<td width="40%" align="center" valign="middle">
+<td align="center">
 
-<h3 style="font-weight: bold;">✨ IT Support Specialist | Mobile & Web Frontend Developer ✨</h3>
-
-<img height="250" src="https://i.ibb.co/32Srqf2/kirby.jpg" style="border-radius: 30px;">
+<img
+  width="350"
+  alt="languages graph"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArisEspino&theme=dark"
+/>
 
 </td>
 
 </tr>
 </table>
 
-##
-<h3 style="font-weight: bold;">And here are some interesting grphs:</h3>
-<!-- grph -->
-<div align="center">
-  <div>
-    <img
-      height="250"
-      width="350"
-      alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArisEspino&theme=dark"
-    />
-    <img
-      height="250"
-      width="350"
-      alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ArisEspino&theme=dark"
-    />
-  </div>
 </div>
-
-##
